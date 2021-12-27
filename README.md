@@ -1,0 +1,3 @@
+- I'm self-taught (Wannabe) game designer.
+- I use Unity for making maps n' stuffs.
+- I can't code :\
